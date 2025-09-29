@@ -110,11 +110,11 @@ server_socket.close()
 
 ## CLIENT:
 
-<img width="864" height="152" alt="image" src="https://github.com/user-attachments/assets/02582c0f-7b45-4c75-8bf0-7f650740259f" />
+<img width="1118" height="196" alt="image" src="https://github.com/user-attachments/assets/568ac224-9e22-49a6-83c7-438e8c26e83f" />
 
 ## SERVER:
 
-<img width="850" height="153" alt="image" src="https://github.com/user-attachments/assets/9d8adc1a-52a5-4156-a21c-aa4eb5a3e8ed" />
+<img width="1039" height="237" alt="image" src="https://github.com/user-attachments/assets/11b07e59-ce2b-4e6c-85c8-fe06529aa277" />
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
